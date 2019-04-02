@@ -1,2 +1,2 @@
-<h1>this is my first project,Valaxy Technologies !!! </h1>
+<h1>Valaxy Technologies !!! </h1>
 
